@@ -408,7 +408,7 @@ U 1 1 591E0E6A
 P 9350 5000
 F 0 "J4" H 9350 5200 50  0000 C CNN
 F 1 "CONN_02X03" H 9350 4800 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_2x03_P1.27mm_Vertical" H 9350 3800 50  0001 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 9350 3800 50  0001 C CNN
 F 3 "" H 9350 3800 50  0000 C CNN
 F 4 "Leave empty" H 9350 5000 60  0001 C CNN "Note"
 F 5 "T" H 9350 5000 50  0001 C CNN "Side"
